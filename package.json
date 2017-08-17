@@ -10,8 +10,13 @@
     "react-native": "^0.24.1",
     "react-native-viewport-units": "0.0.5",
     "react-redux": "^4.4.5",
+    "react-webpack": "^0.4.1",
     "redux": "^3.5.2",
     "redux-logger": "^2.6.1",
     "redux-thunk": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.1"
   }
 }
